@@ -1,6 +1,6 @@
-# vvv
+# v-mall
 
-> A Vue.js project
+> A Vue.js mall
 
 ## Build Setup
 
